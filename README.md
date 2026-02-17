@@ -1,1 +1,1 @@
-# Powe-BI
+# Power-BI
